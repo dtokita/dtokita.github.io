@@ -81,27 +81,28 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Wilson Okamoto Corporation",
+      "position": "Intern",
+      "website": "http://www.wilsonokamoto.com/",
+      "startDate": "2015-5-09",
+      "endDate": "2015-8-10",
+      "summary": "Civil Engineering Internship",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Gain valuable experience in a professional work environment around other engineers",
+        "Used AutoCAD to modify plans and create details for use in projects of various size",
+        "Contributed to work regarding the Hawaii Rail Project and Ke Kilohana Apartments"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Honolulu Club",
+      "position": "Front Desk Attendant",
+      "website": "http://www.honoluluclub.com/",
+      "startDate": "2014-08-09",
+      "endDate": "2016-08-19",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot and problem-solve various issues that arise throughout the facility",
+        "Be friendly, courteous, and respectful toward co-workers and members alike"
       ]
     }
   ],
