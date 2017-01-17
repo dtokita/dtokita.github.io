@@ -104,7 +104,19 @@
         "Troubleshoot and problem-solve various issues that arise throughout the facility",
         "Be friendly, courteous, and respectful toward co-workers and members alike"
       ]
-    }
+    },
+    {
+      "company": "Mentor in College of Engineering High School Internship Program",
+      "position": "Mentor",
+      "website": "",
+      "startDate": "Summer of 2016",
+      "endDate": "",
+      "summary": "",
+      "highlights":[
+        "Mentored students in the University of Hawaii at Manoa’s College of Engineering Summer High School Internship Program",
+        "Calculus, Arduino-based projects, prototyping smart plugs, XBee transmission, and site visits"
+      ]
+    }  
   ],
   "volunteer": [
     {
@@ -129,7 +141,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "Available upon request, please contact dtokita@hawaii.edu",
       "reference": ""
     }
   ]
