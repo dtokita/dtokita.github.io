@@ -108,24 +108,23 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "FIRST Tech Challenge",
+      "website": "http://www.firstinspires.org/robotics/ftc",
+      "position": "Referee",
       "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "endDate": "2016",
+      "summary": "Officiate and Coordinate the FIRST Tech Challenge Competition",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Help encourage and enable the next generation of engineers"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "University of Hawaii at Manoa Chancellor's Scholarship",
+      "date": "2014-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
     },
     {
       "title": "First place",
