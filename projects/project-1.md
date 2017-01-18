@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/SCEL_icon.png
+image: images/SCEL_logo.png
 title: Smart Campus Energy Lab
 permalink: projects/SCEL
 date: 2015-Present
@@ -11,7 +11,7 @@ labels:
   - Ardunio
   - C++
   - Git/GitHub
-summary: Smart Campus Energy Lab.
+summary: Our goal is to support efforts in creating new technologies, techniques and products related to sustainability or renewable energy. We are primarily a student-led lab that strives to achieve this by promoting teamwork, communication, and lifelong learning.
 projecturl: http://scel-hawaii.org/
 ---
 
