@@ -1,9 +1,10 @@
 ---
 layout: project
 type: project
+published: true
 image: images/SCEL_icon.png
 title: Smart Campus Energy Lab
-permalink: projects/vacay
+permalink: projects/SCEL
 date: 2015-Present
 labels:
   - Renewable Energy
@@ -11,6 +12,7 @@ labels:
   - C++
   - Git/GitHub
 summary: Smart Campus Energy Lab.
+projecturl: http://scel-hawaii.org/
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
