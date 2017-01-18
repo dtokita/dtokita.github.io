@@ -11,7 +11,7 @@ labels:
   - Flipped Classroom
 ---
 
-##JavaScript is better than C++?
+##JavaScript is better than C++?##
 
 <img class="ui fluid circular floated image" src="../images/Ruby-and-JavaScript.jpg">
 
@@ -19,7 +19,7 @@ I was skeptical when Professor Johnson gave us a presentation on why JavaScript 
 
 Luckily, I’ve found thus far that the syntax and the structure of the language is very similar to C and C++. This definitely dampened the learning curve in learning JavaScript. The notable absence of pointers in the language has yet to affect me negatively or positively, consequently, I’m excited to see what else this language can do.
 
-##Atheletic Software Engineering
+##Atheletic Software Engineering##
 
 <img class="ui fluid circular floated image" src="../images/FlippedClassroom.jpg">
 
