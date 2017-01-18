@@ -1,10 +1,11 @@
 ---
+
 layout: project
 type: project
 image: images/SCEL_icon.png
 title: Smart Campus Energy Lab
 permalink: projects/SCEL
-date: 2015 - Present
+date: 2015-Present
 labels:
   - Renewable Energy
   - Arduino
