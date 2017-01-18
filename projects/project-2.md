@@ -10,7 +10,8 @@ labels:
   - C++
   - Git/GitHub
 summary: This was my final project in EE205 (Object-Oriented Programming). It is a calculator designed to take any sized integer input and perform various operations and display the results in a naive GUI.
-projecturl: https://github.com/dtokita/Infinite-Integer-Calculator
+projecturl: https://github.com/dtokita/Infinite-Integer-Calculator/
+
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
