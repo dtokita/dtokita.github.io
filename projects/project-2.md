@@ -5,13 +5,12 @@ published: true
 image: images/calculator.png
 title: Infinite Integer Calculator
 permalink: projects/InfIntCalc
-date: 2015
+date: Spring-2015
 labels:
   - C++
   - Git/GitHub
 summary: This was my final project in EE205 (Object-Oriented Programming). It is a calculator designed to take any sized integer input and perform various operations and display the results in a naive GUI.
 projecturl: https://github.com/dtokita/Infinite-Integer-Calculator/
-
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
