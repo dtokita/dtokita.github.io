@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/SCEL_icon.png
+title: Smart Campus Energy Lab
 permalink: projects/vacay
-date: 2015
+date: 2015-Present
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Renewable Energy
+  - Ardunio
+  - C++
+  - Git/GitHub
+summary: Smart Campus Energy Lab.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
