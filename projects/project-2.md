@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/SCEL_logo.png
+image: images/calculator.png
 title: Infinite Integer Calculator
 permalink: projects/InfIntCalc
 date: 2015
