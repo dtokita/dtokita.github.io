@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/SCEL_logo.png
-title: Smart Campus Energy Lab
+title: Smart Campus Energy Lab - Sophomore Project
 permalink: projects/SCEL
 date: 2015-Present
 labels:
@@ -11,16 +11,7 @@ labels:
   - Ardunio
   - C++
   - Git/GitHub
-summary: Our goal is to support efforts in creating new technologies, techniques and products related to sustainability or renewable energy. We are primarily a student-led lab that strives to achieve this by promoting teamwork, communication, and lifelong learning.
+summary: Our goal is to support efforts in creating new technologies, techniques and products related to sustainability or renewable energy. We are primarily a student-led lab that strives to achieve this by promoting teamwork, communication, and lifelong learning. We were instructed to design a low-cost, accurate, and reliable Arduino-based device to collect meteorological data across the University of Hawaii at Manoa for renewable energy planning and taking step towards the Hawaii Clean Energy Initiative.
 projecturl: http://scel-hawaii.org/
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
