@@ -257,5 +257,3 @@ We can see that the person who asked his question clearly made honest attempts a
 I really don't want to discourage anyone from asking questions. Questions are the way that people learn and discover new things. However, there are certainly dumb questions that communicate poorly or waste time. Time and effort that could be used to create new ideas, ask better questions, and communicate effectively.
 
 As a result, my final stance on this is that questions are necessary and even welcome up to a point. If sufficient effort and understanding is shown and what is being questioned is clear, that question deserves to be answered. I certainly would not be where I am today without asking questions, however, no one is perfect, and a stupid one comes out every so often. It happens.
-
-http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array
