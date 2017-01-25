@@ -17,6 +17,19 @@ The person who asks the question clearly has a need for information. However, if
 
 With the dawn of the information age with internet and other resources, there is information readily available at many's finger tips. Of course in order for the information to be on the internet in the first place, the question had to be asked originally. However, if the question has been answered before, and a simple google search would yield the answer, why waste someone else's time answering a question that already has been answered.
 
+This is a good example of a poor question and as a result recieves a poor answer.
+
+```
+Question:
+This program will need to handle all grades for 10 students. Each student has a first and last name, an id number, 3 homework grades, 3 labs grades, 3 test grades, and 1 final exam grade. display the final course grade in both numbered and letter version
+
+The equation only works for the first set of grades then it adds a little bit to the next average I just can't figure out whats wrong.
+
+Answer:
+You haven't reset these variables to zero.
+```
+Keep in mind, in the original post, no source code was included. So many of the responses included were asking for the code. However, even after the code was posted, the response was vague, unspecific, and non informative, likely a product of a poor question.
+
 ## Why it is so important to ask good questions. Please.##
 
 It is in the best interest of both parties to ask and answer good questions. When you ask good questions you give yourself an opportunity for good answers. Specifically for software engineers, questions are often complex and the answers just as complex.
@@ -237,6 +250,7 @@ Intel Compiler 11 does something miraculous. It interchanges the two loops, ther
 If you give the Intel Compiler the branchless code, it just out-right vectorizes it... and is just as fast as with the branch (with the loop interchange).
 This goes to show that even mature modern compilers can vary wildly in their ability to optimize code...
 ```
+We can see that the person who asked his question clearly made honest attempts at solving the problem and tried experimenting on his own. He is very clear in what he wants, adding in a lot of details. Therefore the answer that he recieves is just as detailed and clear.
 
 ## You don't have to do it alone.##
 
