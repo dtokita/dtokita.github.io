@@ -11,6 +11,8 @@ labels:
 
 ## There really are stupid questions.##
 
+<img class="ui tiny left circular floated image" src="../images/questions.png">
+
 We as human beings have the ability to communicate in a whole variety of ways. We have cell phones, text messages, radio signals and of course our own voices. However, it doesn't matter how sophisticated the technology if the users communicate ineffectively. 
 
 The person who asks the question clearly has a need for information. However, if his need is unclear, then of course the answers he/she recieves will also be unclear. As a result, the person who asked the question is unhappy, and the time of the person who asked the question was wasted.
