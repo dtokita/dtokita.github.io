@@ -10,7 +10,7 @@ labels:
 
 # Lifelong Learning#
 
-<img class="ui tiny left circular floated image" src="../images/lifelonglearning.jpg">
+<img class="ui small left circular floated image" src="../images/lifelonglearning.jpg">
 
 As a student aspiring to be a computer engineer, we are continuously familiarized with the latest technology, protocols, and standards. However, if the past were to teach us anything, we can only stand to reason that the future will only hold more development, new standards and protocols and new, interesting ideas. Technology has boomed in the recent years and if you don’t keep up, you will almost certainly fall behind.
 
@@ -20,7 +20,7 @@ Section 2 describes what is lifelong learning and what a lifelong learner is, Se
 
 # Section 2 - What is Lifelong Learning?#
 
-<img class="ui tiny left circular floated image" src="../images/lifelonglearning2.png">
+<img class="ui small left circular floated image" src="../images/lifelonglearning2.png">
 
 Lifelong learning to me is much more than just constantly learning throughout one’s life. Lifelong learning to means that you continuously have the drive, motivation, and desire to explore, be curious, and ask questions.
 
@@ -74,7 +74,7 @@ Personally, I take pride in making an effort to learn something new everyday. It
 
 # Section 3 - Why is Lifelong Learning so Important?#
 
-<img class="ui tiny left circular floated image" src="../images/lifelonglearning3.jpg">
+<img class="ui small left circular floated image" src="../images/lifelonglearning3.jpg">
 
 Mahncke, Bronstone, Merzenich state that there are “Four core factors… that contribute to negative brain plasticity and functional losses in the elderly, one of which is… reduced schedules of brain activity…” [2] In other words, if you don’t use your brain, you lose it.
 
@@ -90,7 +90,7 @@ By being a lifelong learner, you’re a lot less likely to get bored and certain
 
 # Section 4 - Closing Remarks#
 
-<img class="ui tiny left circular floated image" src="../images/lifelonglearning4.png">
+<img class="ui small left circular floated image" src="../images/lifelonglearning4.png">
 
 Through my research on lifelong learning, I’ve realized the importance of maintaining the current lifestyle of exploring, being curious, and having the drive to constantly improve myself. I have also found that there are many opportunities for lifelong learning and that it is in fact encouraged by the community.
 
