@@ -10,6 +10,9 @@ labels:
 ---
 
 # Big Data#
+
+<img class="ui small left circular floated image" src="../images/bigdata.jpg">
+
 Big data is a term that is often used to describe large sets of collected data that can either be structured or unstructured in nature. These data sets are commonly processed and used to create models, make predictions or make smarter decisions. [1] Three terms are commonly referenced when describing big data, volume, velocity and variety.
 
 Volume describes the sheer amount of data that is collected. Many data points from even a single event can recorded, stored and processed. Large server centers and supercomputers are commonly used to process the large quantity of data. [2]
@@ -21,6 +24,9 @@ Variety describes the various data formats and types that can be collected. Data
 Section 2 of this report will discuss the applications of big data and its relationship with the Internet of Things (IoT). Section 3 of this report will discuss algorithms that are used to process and make decisions from big data. Section 4 of this report will contain my conclusions.
 
 # Section 2 - Applications of Big Data#
+
+<img class="ui small left circular floated image" src="../images/bigdata2.jpg">
+
 Big data has a lot of applications, frequently in the background of our lives. Approximately 2.5 quintillion bytes of data is produced every day. [3] This turns out to be approximately 340 megabytes of data for each person on Earth right now.
 
 The first application of big data is in social media. As you can imagine, social media can generate large networks of friends and connections as well as data points such as “likes” or “interests” that are captured and processed every day. The primary issue with collecting data about social media is that the data is unstructured and because of the large volume of data, it isn’t practical or even possible for humans to process all this data.
@@ -50,6 +56,9 @@ The Internet of Things is a term that is commonly used to describe the vast amou
 The real value in the IoT is the integration of all the data in order to make more educated and large scale decisions and predictions than ever before. Also, with the help of big data, we are able to process large quantities of fast moving and variable data that would be inconceivable otherwise. Many Intelligent Transport Systems (ITS) are implemented in cities that are starting to move towards being “Smart”er such as GPS on buses provided by TheBus. [9]
 
 # Section 3 - Big Data Algorithms#
+
+<img class="ui small left circular floated image" src="../images/bigdata3.jpg">
+
 Hadoop is an open-source software framework that is used to process big data with MapReduce being its primary programming model. Hadoop operates by splitting files into large blocks and distributing them across computing nodes in a cluster of computers. This approach of computing assigns each individual node to process only the data they have access to. This takes advantage of data locality. This essentially allows parallel computing that isn’t bottlenecked by the network connection between nodes. [10]
 
 MapReduce is a programming model that is used by Hadoop in which the procedure is characterized by first a Mapping procedure in which the data is filtered and sorted and a Reducing method that performs a summary operation. Another characteristic is that processing is distributed over servers that run various tasks in parallel in such a manner that is redundant and as a result, fault tolerant. [11]
