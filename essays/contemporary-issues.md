@@ -10,11 +10,17 @@ labels:
 ---
 
 # Contemporary Issues#
+
+<img class="ui small left circular floated image" src="../images/contemporary.jpeg">
+
 We learn in universities and industry how to analyze circuits, create printed circuit boards, and design code, however; we have a single class dedicated to the ethics and contemporary issues surrounding computer engineering. This is not the most exciting topic to cover, however; it is definitely important because there are real world issues and implications that come along with working in industry. This paper explores the contemporary issues surround computer engineering.
 
 Section 2 will contain the research regarding the impacts of computer engineering and the economy and vice versa. Section 3 will contain research regarding the social and cultural impacts of computer engineering around the world. Section 4 will contain research regarding the environmental impact of the technology surrounding computer engineering. Section 5 will contain the research regarding contemporary ethical issues. Section 6 will contain the research regarding contemporary technical issues. Section 7 will contain the research regarding current events and present computer engineering problems. Finally, Section 8 will contain concluding remarks.
 
 # Section 2 - The Global Economy#
+
+<img class="ui small left circular floated image" src="../images/contemporary2.jpg">
+
 The global economy is a large, driving force that has a hold on all industries all over the world. Computer engineering is large and strong enough to have an effect on the global economy such as automation, online shopping, and bringing computing power to consumers. [1]
 
 The Industrial Revolution was a huge boom in productivity around the time period from 1760s to 1840s. New technologies such as steam engines, machine tools and metallurgy created a large boom in material production, labor and jobs, as well as wealth for those in the right industries. However, with the dawn of the Information Age, a second push and boom occurred in technology and productivity. The Information Age brought about the automation of previously labor-intensive jobs. [1]
@@ -40,6 +46,9 @@ I am currently taking EE 491E which is an internet of things course. We discuss 
 Augmented and virtual reality is a young technology that is starting to hit the mainstream market. From the HTC Vive to Pokemon Go, there has been a good showing for augmented and virtual reality in the market recently. Therefore, it is reasonable to expect that the success will continue. With many practical applications ranging from medical to entertainment, this new computer engineering solution will affect multiple sectors of the global economy.
 
 # Section 3 - Societal Impacts#
+
+<img class="ui small left circular floated image" src="../images/contemporary3.jpg">
+
 There are a few societal impacts that computer engineering has had all across the world. With the increase in collaboration due to open source projects, people have been more collaborative than ever before. Also, the invention of social media has allowed a more globalized and connected world. Finally, the internet has allowed communication and interactions that we previously not possible. [5]
 
 Because more projects have become open-sourced and available to the public, collaboration and connectivity has become a more powerful tool than ever before. Previously, we did not have the technologies and applications such as Git or collaborative documents such as Google Docs or Slides to effectively collaborate on the large scale. However, it is now possible to combine easily get results from multiple people’s work in an efficient manner.
@@ -49,6 +58,9 @@ Social media has brought about both positives and negatives to the cultures and 
 The internet has allowed a transfer protocol that has allowed applications to be shared as well as documents and other pieces of information. Individuals as well as machines are able to make connections and share information faster and more efficiently than ever before. A specific application is IBM’s Watson. This machine is able to communicate with servers and databases all over the world to make educated decisions in things like medical diagnosis and weather reports.
 
 # Section 4 - Environmental Impacts#
+
+<img class="ui small left circular floated image" src="../images/contemporary4.jpg">
+
 The environment is open in many different ways due to the effects of computer engineering. Using a similar IoT example as before, we are able to monitor the environment and our surroundings like never before. Also, we are now able to interact with our environment in new ways, also using connected devices and the IoT space. Finally, more and more electricity and power is being drawn with the increase of computing devices.
 
 The large increase in connected devices means that we have a large sensor network that is constantly growing and being deployed. As a result, we have a large increase in data from our surroundings. We are now able to create context aware conclusions that without the large pool of information, were not possible before.
@@ -64,6 +76,9 @@ It is fair to assume that the more computing power that is demanded from the wor
 However, we can also make the conclusion that the more technology improves, the more energy efficient we can become. Therefore if the efficiency improves, the demand can improves as well. As a result, we can see that perhaps that we may not be in as critical of a situation as long as we continue to put a priority on increasing energy efficiency.
 
 # Section 5 - Contemporary Ethical Issues#
+
+<img class="ui small left circular floated image" src="../images/contemporary5.jpg">
+
 With the recent events in the news about Alexa and Amazon’s Web Services involved in a murder, there is an ethical dilemma regarding the release of information captured by an Amazon Echo device. Another issue is that the National Security Agency requested Apple to place backdoors in their products to allow the NSA access to terrorist messages and communications. [8]
 
 We discussed the ethical issues with the Alexa case in our IoT class. Information that was captured by an Amazon Echo device could have implications in the murder of a man. As a result, the local police requested the information from Amazon in order to collect evidence. There was a dispute in whether or not releasing this information was an invasion of privacy or that it was legally obtained when consenting to setting up one of these devices. Ultimately, the information was handed over to the police.
@@ -73,6 +88,9 @@ A second ethical issue involved the NSA and Apple. The National Security Agency 
 An opposing view to the Alexa case is that it was okay for data that is captured by an IoT device. By having this device in your home and connected, there is an understanding that information is constantly being collected. As a result, it should make sense that these devices should have information that is readily available.
 
 # Section 6 - Contemporary Technical Issues#
+
+<img class="ui small left circular floated image" src="../images/contemporary6.jpg">
+
 The Power Wall has always been a concern for technologies, especially CPUs and GPUs. Therefore power consumption goes hand in hand with the power wall issue. Finally, with the increase in automation there is an issue with Artificial Intelligence in order for us to more smartly interact with technology. [9]
 
 The Power Wall is a limit to the computing power that we can get out of silicon semiconductors. As a result, the heat that is generated by a high clock speed and computing power will form an upper bound as heat that is generated anywhere beyond the upper limit will cause device failure. This limits the amount of computing power that can be generated with the current technology.
@@ -82,6 +100,9 @@ We can also see that the problem of power consumption also goes hand in hand. Th
 Artificial Intelligence is not a new concept. However, perfecting the craft has yet to be done. With the invention of AI, technology would be increasing easier to interact with and that automation will increase production.
 
 # Section 7 - Current Events/Issues and Computer Engineering#
+
+<img class="ui small left circular floated image" src="../images/contemporary7.jpg">
+
 The NSA and Apple case is a good example of a contemporary political issue. This is due to the National Security Agency which is a government organization wanted a backdoor into a device that is held by millions of Americans. This was seen as an invasion of privacy. As a result, the conclusion that was made was that it was unconstitutional. This was a huge stand for the privacy of individuals and their technologies.
 
 There is a large job market that is developing as a result of computer engineering. Therefore job opportunities are springing up everywhere. There are many programs that encourage the next generation to get involved in STEM fields. This is a good thing as it will continue to progress the field forward.
