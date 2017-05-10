@@ -10,7 +10,9 @@ labels:
 
 # Lifelong Learning#
 As a student aspiring to be a computer engineer, we are continuously familiarized with the latest technology, protocols, and standards. However, if the past were to teach us anything, we can only stand to reason that the future will only hold more development, new standards and protocols and new, interesting ideas. Technology has boomed in the recent years and if you don’t keep up, you will almost certainly fall behind.
+
 If I want to remain effective as a computer engineer and be able to compete with the individuals who come out of college while I’m in the workforce, I need to continue to learn, think, and be aware of the ever-changing world around me. It will be a necessity for me to be a lifelong learner.
+
 Section 2 describes what is lifelong learning and what a lifelong learner is, Section 3 covers the importance of lifelong learning, and Section 4 contains concluding remarks.
 
 # Section 2 - What is Lifelong Learning?#
