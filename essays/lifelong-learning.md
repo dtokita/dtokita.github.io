@@ -9,6 +9,9 @@ labels:
 ---
 
 # Lifelong Learning#
+
+<img class="ui tiny left circular floated image" src="../images/lifelonglearning.jpg">
+
 As a student aspiring to be a computer engineer, we are continuously familiarized with the latest technology, protocols, and standards. However, if the past were to teach us anything, we can only stand to reason that the future will only hold more development, new standards and protocols and new, interesting ideas. Technology has boomed in the recent years and if you don’t keep up, you will almost certainly fall behind.
 
 If I want to remain effective as a computer engineer and be able to compete with the individuals who come out of college while I’m in the workforce, I need to continue to learn, think, and be aware of the ever-changing world around me. It will be a necessity for me to be a lifelong learner.
@@ -16,6 +19,9 @@ If I want to remain effective as a computer engineer and be able to compete with
 Section 2 describes what is lifelong learning and what a lifelong learner is, Section 3 covers the importance of lifelong learning, and Section 4 contains concluding remarks.
 
 # Section 2 - What is Lifelong Learning?#
+
+<img class="ui tiny left circular floated image" src="../images/lifelonglearning2.png">
+
 Lifelong learning to me is much more than just constantly learning throughout one’s life. Lifelong learning to means that you continuously have the drive, motivation, and desire to explore, be curious, and ask questions.
 
 Being a lifelong learning can help my career by maintaining my brain’s health, keeping up with the ever-changing world around me, and lets me have fun and enjoy my career throughout my life.
@@ -67,6 +73,9 @@ The final lifestyle change that would prove beneficial to lifelong learning woul
 Personally, I take pride in making an effort to learn something new everyday. It doesn’t always happen, but I try to watch a short YouTube video or reach a short article and learn a “useless” fact everyday. There are many ways that this can help a professional career, some more direct than others.
 
 # Section 3 - Why is Lifelong Learning so Important?#
+
+<img class="ui tiny left circular floated image" src="../images/lifelonglearning3.jpg">
+
 Mahncke, Bronstone, Merzenich state that there are “Four core factors… that contribute to negative brain plasticity and functional losses in the elderly, one of which is… reduced schedules of brain activity…” [2] In other words, if you don’t use your brain, you lose it.
 
 Yaakob Stem stated that, “... there is a reduced risk of developing Alzheimer’s disease in individuals with higher educational or occupational attainment.” [3]
@@ -80,6 +89,9 @@ As one gets deeper and deeper into a career and life, routines can become stale 
 By being a lifelong learner, you’re a lot less likely to get bored and certainly breaks the routine. By learning new things everyday, you give yourself something to look forward to.
 
 # Section 4 - Closing Remarks#
+
+<img class="ui tiny left circular floated image" src="../images/lifelonglearning4.png">
+
 Through my research on lifelong learning, I’ve realized the importance of maintaining the current lifestyle of exploring, being curious, and having the drive to constantly improve myself. I have also found that there are many opportunities for lifelong learning and that it is in fact encouraged by the community.
 
 I will continue to try my best and continue to encourage learning in my everyday life and continue to encourage the people around me to continue learning as well.
